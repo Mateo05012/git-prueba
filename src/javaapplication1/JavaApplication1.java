@@ -25,6 +25,7 @@ public class JavaApplication1 {
             resul= resul+"\n "+pal;
         }
         System.out.println(resul);
+        System.out.println("holahola");
     }
 
 }
